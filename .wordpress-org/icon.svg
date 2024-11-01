@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="45.519566mm"
+   height="45.519566mm"
+   viewBox="0 0 45.519566 45.519566"
+   version="1.1"
+   id="svg877"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="icon.svg"
+   inkscape:export-filename="F:\PROJECT\Personal\WebbyMaps\Design &amp; Artworks\Logo\icon-256x256.png"
+   inkscape:export-xdpi="142.84846"
+   inkscape:export-ydpi="142.84846"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview879"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.72337262"
+     inkscape:cx="64.282223"
+     inkscape:cy="140.31496"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs874" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-88.432335,-111.47544)">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:none;stroke-width:0.529167"
+       id="rect14728"
+       width="45.519566"
+       height="45.519566"
+       x="88.432335"
+       y="111.47544" />
+    <g
+       id="g836-2"
+       transform="matrix(1.3490734,0,0,1.3490734,97.701385,115.82698)"
+       style="fill:#442178">
+      <g
+         id="g824-8"
+         style="fill:#442178" />
+      <path
+         d="M 10,2 Q 8.37,2 6.99,2.805 5.61,3.61 4.805,4.99 4,6.37 4,8 q 0,1.42 0.7,2.665 0.7,1.245 1.83,2.225 0.04,0.03 0.235,0.195 0.195,0.165 0.295,0.255 0.1,0.09 0.3,0.275 0.2,0.185 0.345,0.33 0.145,0.145 0.33,0.355 0.185,0.21 0.345,0.42 1.33,1.74 1.62,2.71 0.29,-0.97 1.62,-2.71 0.16,-0.21 0.345,-0.42 0.185,-0.21 0.33,-0.355 0.145,-0.145 0.345,-0.33 0.2,-0.185 0.3,-0.275 0.1,-0.09 0.295,-0.255 Q 13.43,12.92 13.47,12.89 14.6,11.91 15.3,10.665 16,9.42 16,8 16,6.37 15.195,4.99 14.39,3.61 13.01,2.805 11.63,2 10,2 Z m 0,2.56 q 1.42,0 2.43,1.01 1.01,1.01 1.01,2.43 0,1.42 -1.01,2.43 -1.01,1.01 -2.43,1.01 -1.42,0 -2.43,-1.01 Q 6.56,9.42 6.56,8 6.56,6.58 7.57,5.57 8.58,4.56 10,4.56 Z"
+         fill="#000000"
+         id="path826-8"
+         style="fill:#442178" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.37914px;line-height:1.25;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading';fill:#3e3748;fill-opacity:1;stroke:#7c6f91;stroke-width:0.159479"
+       x="94.458954"
+       y="147.48869"
+       id="text1482-0"><tspan
+         sodipodi:role="line"
+         id="tspan1480-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Sitka Subheading';-inkscape-font-specification:'Sitka Subheading';fill:#3e3748;stroke:#7c6f91;stroke-width:0.159479"
+         x="94.458954"
+         y="147.48869">WebbyMaps</tspan></text>
+  </g>
+</svg>
